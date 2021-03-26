@@ -1,0 +1,67 @@
+lastAccountName: StepSmiley
+timestamps:
+  login: 1616773140823
+  logout: 1616773496487
+  lastteleport: 1616773209715
+ipAddress: 109.136.122.239
+homes:
+  step:
+    world: Unnamed
+    x: -266.93230133303643
+    y: 63.0
+    z: 330.8982956585129
+    yaw: 101.27309
+    pitch: 31.064043
+  house:
+    world: Unnamed
+    x: -835.654054225777
+    y: 85.0
+    z: -292.6250272840838
+    yaw: -98.21106
+    pitch: 32.93988
+  honey:
+    world: Unnamed
+    x: -268.15636381806416
+    y: 70.0
+    z: -759.5613837464017
+    yaw: 358.46017
+    pitch: 21.618347
+  end:
+    world: Unnamed_the_end
+    x: 233.65888221163655
+    y: 2.0
+    z: 4.8271490341362
+    yaw: -124.509705
+    pitch: 12.647898
+  farm:
+    world: Unnamed_the_end
+    x: 241.1394907657042
+    y: 53.0
+    z: 5.621100683713367
+    yaw: -98.91858
+    pitch: 55.733803
+logoutlocation:
+  world: Unnamed
+  x: -962.1575671932742
+  y: 93.0
+  z: -313.89648116303965
+  yaw: -117.25769
+  pitch: 18.447685
+mail:
+- §6[§rCosmoChemistry§6] §rWith the resignation of our beloved Adminstrator @Ashy
+  , I have been thinking of selecting a new admin. Now, since I'm not perfect, I need
+  y'all to help. The staff has decided that in order to prevent multiple entries by
+  inactive poeple, ever
+- §6[§rCosmoChemistry§6] §rAdmin Apps have closed!
+- §6[§rCosmoChemistry§6] §rPVP arena is now finished... You can go there via the /warp
+  pvparena command
+- §6[§rCosmoChemistry§6] §rUpdate 2.01 - Added multiple homes (Up till 3)- Removed
+  /trigger home- Removed Clear-Lag feature that removes empty boats. (Still buggy)
+lastlocation:
+  world: Unnamed
+  x: -84.76177411689629
+  y: 64.0
+  z: 81.44696527276366
+  yaw: 262.42065
+  pitch: 27.05273
+afk: false

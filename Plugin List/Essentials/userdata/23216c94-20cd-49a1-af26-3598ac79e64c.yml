@@ -1,0 +1,46 @@
+lastAccountName: mattyy_pastizzi
+timestamps:
+  login: 1616669770288
+  logout: 1616669963750
+  lastteleport: 1616611638511
+  jail: 0
+ipAddress: 213.217.193.217
+logoutlocation:
+  world: Unnamed
+  x: -107.50417906008725
+  y: 65.0
+  z: 281.0951468040428
+  yaw: -213.22742
+  pitch: 3.2089126
+nickname: Matt
+lastlocation:
+  world: Unnamed
+  x: -843.619052063998
+  y: 76.36813547579965
+  z: -359.8187875133062
+  yaw: -352.50012
+  pitch: 4.186898
+jailed: false
+homes:
+  home:
+    world: Unnamed
+    x: -678.5
+    y: 88.0
+    z: -1961.5
+    yaw: -215.5763
+    pitch: 15.677696
+  old:
+    world: Unnamed
+    x: -504.48944032284965
+    y: 72.75682882013105
+    z: -486.99208552722337
+    yaw: -77.31665
+    pitch: 14.944074
+  mine:
+    world: Unnamed
+    x: -859.6999999880791
+    y: 9.0
+    z: -1882.4329068324917
+    yaw: -265.8685
+    pitch: 35.969482
+afk: false

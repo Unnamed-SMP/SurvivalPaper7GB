@@ -1,0 +1,46 @@
+lastAccountName: FoxyTriples
+timestamps:
+  login: 1616766268989
+  logout: 1616745899171
+  lastteleport: 1616779208236
+  jail: 0
+ipAddress: 95.148.184.154
+logoutlocation:
+  world: Unnamed
+  x: 947.5928361677236
+  y: 72.0
+  z: -1741.4369720067662
+  yaw: 184.97794
+  pitch: 21.929352
+lastlocation:
+  world: Unnamed
+  x: 845.7612966021154
+  y: 84.0
+  z: -1663.7776299404295
+  yaw: 253.869
+  pitch: 23.881536
+homes:
+  home:
+    world: Unnamed
+    x: 836.1604262833506
+    y: 83.8500000178814
+    z: -1664.240977587178
+    yaw: 359.4553
+    pitch: 43.275024
+  slime:
+    world: Unnamed
+    x: 885.7241945126873
+    y: 24.0
+    z: -1465.7717108402858
+    yaw: -273.58087
+    pitch: 17.951828
+  monument:
+    world: Unnamed
+    x: -5980.512499988079
+    y: 41.0
+    z: 6457.597838606604
+    yaw: -104.38037
+    pitch: 38.336388
+money: '3383.00'
+jailed: false
+afk: true

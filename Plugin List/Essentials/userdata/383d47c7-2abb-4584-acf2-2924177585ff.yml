@@ -1,0 +1,28 @@
+lastAccountName: therealjmcdb
+timestamps:
+  login: 1616190541456
+  lastteleport: 1616191389736
+  logout: 1616192071922
+  jail: 0
+ipAddress: 84.255.51.246
+lastlocation:
+  world: Unnamed
+  x: -86.0
+  y: 64.0
+  z: 81.0
+  yaw: -10.949999
+  pitch: 19.199993
+logoutlocation:
+  world: Unnamed
+  x: -821.0876354783876
+  y: 101.5625
+  z: -212.56762714323577
+  yaw: -6.9015503
+  pitch: 28.79979
+mail:
+- §6[§rCosmoChemistry§6] §rAdmin Apps have closed!
+- §6[§rCosmoChemistry§6] §rPVP arena is now finished... You can go there via the /warp
+  pvparena command
+- §6[§rCosmoChemistry§6] §rUpdate 2.01 - Added multiple homes (Up till 3)- Removed
+  /trigger home- Removed Clear-Lag feature that removes empty boats. (Still buggy)
+jailed: false

@@ -1,0 +1,45 @@
+lastAccountName: DeNighty
+timestamps:
+  login: 1616780767552
+  logout: 1616778238239
+  lastteleport: 1616779638765
+  jail: 0
+ipAddress: 46.199.197.188
+lastlocation:
+  world: Unnamed
+  x: 5646.7464322005735
+  y: 69.0625
+  z: -451.1824355206741
+  yaw: -103.252045
+  pitch: 28.827522
+logoutlocation:
+  world: Unnamed
+  x: 5642.798123355253
+  y: 70.0
+  z: -453.69999998807907
+  yaw: -339.56635
+  pitch: 47.133553
+jailed: false
+homes:
+  cave:
+    world: Unnamed
+    x: -0.8226297798119945
+    y: 36.0
+    z: 252.4101480741023
+    yaw: -272.73132
+    pitch: 3.8095045
+  district:
+    world: Unnamed
+    x: -104.44723705256213
+    y: 65.0
+    z: 253.4007098602552
+    yaw: 37.706837
+    pitch: 24.556229
+  cabin:
+    world: Unnamed
+    x: 5646.548296477935
+    y: 69.0625
+    z: -451.6813602968921
+    yaw: -184.712
+    pitch: 33.861813
+afk: false

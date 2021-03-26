@@ -1,0 +1,18 @@
+lastAccountName: Bor_Ed
+timestamps:
+  login: 1615564135860
+  logout: 1615565378811
+  jail: 1615738209870
+ipAddress: 216.213.176.193
+logoutlocation:
+  world: Unnamed
+  x: 1055.300000011921
+  y: 47.0
+  z: 449.69999998807907
+  yaw: -304.188
+  pitch: 11.580613
+mail:
+- §6[§rCosmoChemistry§6] §rUpdate 2.01 - Added multiple homes (Up till 3)- Removed
+  /trigger home- Removed Clear-Lag feature that removes empty boats. (Still buggy)
+jailed: true
+jail: end

@@ -1,0 +1,58 @@
+lastAccountName: Mighty_Python45
+timestamps:
+  login: 1616081637843
+  lastteleport: 1616073976639
+  logout: 1616081702209
+ipAddress: 37.75.35.135
+nickname: Haxixu
+homes:
+  home:
+    world: Unnamed
+    x: -248.30442349860004
+    y: 10.0
+    z: 350.8341861938331
+    yaw: -358.64087
+    pitch: 22.499807
+  trident:
+    world: Unnamed
+    x: 1431.059789625143
+    y: 200.5
+    z: -2526.199350220665
+    yaw: 178.97609
+    pitch: 12.299994
+  storage:
+    world: Unnamed
+    x: -244.11122020680526
+    y: 70.0
+    z: 319.9957045542633
+    yaw: 299.85892
+    pitch: 27.449947
+  spider:
+    world: Unnamed
+    x: -4121.7520131411065
+    y: 56.0
+    z: 322.7427668372856
+    yaw: 269.6404
+    pitch: -6.7499804
+  luke:
+    world: Unnamed
+    x: -409.4465183506086
+    y: 68.0
+    z: 1468.2340926806412
+    yaw: 273.6016
+    pitch: 9.449987
+lastlocation:
+  world: Unnamed
+  x: -4123.308265446236
+  y: 55.0
+  z: 323.28235956340836
+  yaw: 275.04047
+  pitch: -7.199982
+logoutlocation:
+  world: Unnamed
+  x: -274.09748911410617
+  y: 9.0
+  z: 370.7363299308592
+  yaw: 330.80206
+  pitch: 34.999317
+afk: false

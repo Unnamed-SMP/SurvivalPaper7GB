@@ -1,0 +1,28 @@
+lastAccountName: DyNaMiC_BrInGeR
+timestamps:
+  login: 1616522625826
+  lastteleport: 1616523672119
+  logout: 1616524719820
+ipAddress: 46.11.172.206
+lastlocation:
+  world: Unnamed
+  x: -84.83208442533008
+  y: 64.0
+  z: 82.19999114159154
+  yaw: -13.166987
+  pitch: 27.469044
+logoutlocation:
+  world: Unnamed
+  x: -838.7465843186709
+  y: 66.0
+  z: -382.551306692177
+  yaw: 94.779785
+  pitch: 11.023059
+homes:
+  base:
+    world: Unnamed
+    x: -842.0263954516657
+    y: 77.0
+    z: -396.85731130100237
+    yaw: 311.9016
+    pitch: 30.18054

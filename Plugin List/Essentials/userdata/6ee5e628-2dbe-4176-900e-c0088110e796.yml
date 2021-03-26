@@ -1,0 +1,34 @@
+lastAccountName: LiquidTheBear
+timestamps:
+  login: 1616772828541
+  lastteleport: 1615465699993
+  logout: 1616773569970
+ipAddress: 92.114.82.244
+homes:
+  home:
+    world: Unnamed
+    x: -150.5542722891516
+    y: 12.0
+    z: 189.59267626574044
+    yaw: -353.17407
+    pitch: -1.6498998
+lastlocation:
+  world: Unnamed
+  x: -200.96858284235958
+  y: 72.0
+  z: 284.7365161443004
+  yaw: -86.93115
+  pitch: 24.00026
+logoutlocation:
+  world: Unnamed
+  x: -2.4421121632503286
+  y: 36.0
+  z: 252.70788835409965
+  yaw: -217.21423
+  pitch: 15.150171
+mail:
+- §6[§rCosmoChemistry§6] §rAdmin Apps have closed!
+- §6[§rCosmoChemistry§6] §rPVP arena is now finished... You can go there via the /warp
+  pvparena command
+- §6[§rCosmoChemistry§6] §rUpdate 2.01 - Added multiple homes (Up till 3)- Removed
+  /trigger home- Removed Clear-Lag feature that removes empty boats. (Still buggy)

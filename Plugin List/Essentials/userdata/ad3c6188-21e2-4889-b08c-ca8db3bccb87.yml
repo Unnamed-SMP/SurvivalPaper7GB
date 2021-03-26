@@ -1,0 +1,29 @@
+lastAccountName: HerbalDoctor
+timestamps:
+  login: 1616609103608
+  lastteleport: 1616609158628
+  logout: 1616609338624
+ipAddress: 82.171.20.42
+lastlocation:
+  world: Unnamed
+  x: 811.4333002691268
+  y: 63.0
+  z: 364.3446739376427
+  yaw: -36.281635
+  pitch: 6.692261
+homes:
+  home:
+    world: Unnamed
+    x: 853.8347328598751
+    y: 63.0
+    z: 413.6871181864865
+    yaw: 225.31519
+    pitch: 24.713608
+logoutlocation:
+  world: Unnamed
+  x: 851.8597564513439
+  y: 63.0
+  z: 416.825657484736
+  yaw: 95.70535
+  pitch: 10.949516
+afk: false
