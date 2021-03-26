@@ -1,0 +1,29 @@
+#-------------------------------------#  About Plugin  #-------------------------------------#
+#Name: SeePlayerInventory
+#Author: peti446
+#Bukkit Page: http://dev.bukkit.org/bukkit-plugins/seeplayer-inventory/
+#-------------------------------------#  About Plugin  #-------------------------------------#
+#-------------------------------------# Plugin Version #-------------------------------------#
+# Don't change this or your config will be reload to the default config!!
+Version: 2.7.2
+#-------------------------------------# Plugin Version #-------------------------------------#
+Config:
+####----####----####----####----####----- Check Updates ----####----####----####----####-----####
+### You can chose if the server should check for updates or no:
+# If it true it will check updates when you start the server.
+  Check Updates On Start: true
+# If it true it will check updates when you Login/Join the server.
+# For check updates when your join the game you need have the permissions(seeplayerinventory.checkupdates) or be Operator(OP).
+  Check Updates On Login: true
+####----####----####----####----####----- Inventory see Request ----####----####----####----####-----####
+### Here you can set the time its take for a request to time out.
+# It is in seconds, the default is 180, if you set it to 0 it will be disabled.
+  Request Time out: 180
+####----####----####----####----####----- Inventory Inspecting command ----####----####----####----####-----####
+### Here you can configure how the inspect feature will work.
+# Will users have enabled the inspecting enabled by default when the log in.
+# For example, if it is set to true, player need to use /spi inspect disallow to
+# prevent other players from inspecting their inventory.
+  Default-Enabled: false
+# Time needed to wait for a user between inspected inventory. (Default: 180, Disable:0)
+  Cooldown For Inspecting: 180
