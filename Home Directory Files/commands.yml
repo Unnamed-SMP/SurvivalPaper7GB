@@ -1,0 +1,36 @@
+# This is the commands configuration file for Bukkit.
+# For documentation on how to make use of this file, check out the Bukkit Wiki at
+# https://www.spigotmc.org/go/commands-yml
+# 
+# If you need help on this file, feel free to join us on irc or leave a message
+# on the forums asking for advice.
+# 
+# IRC: #spigot @ irc.spi.gt
+#    (If this means nothing to you, just go to https://www.spigotmc.org/go/irc )
+# Forums: https://www.spigotmc.org/
+# Bug tracker: https://www.spigotmc.org/go/bugs
+
+command-block-overrides: []
+ignore-vanilla-permissions: false
+aliases:
+  icanhasbukkit:
+  - version $1-
+  vote:
+  - customtext vote $1-
+  cutep:
+  - customtext cutep $1-
+  cmdreload:
+  - essentials reload $1
+  - reload commands $1
+  spawn:
+  - warp spawn $1
+  discord:
+  - customtext discord $1
+  web:
+  - customtext website $1
+  ausreload:
+  - broadcast Server Reload in Progress, large ammount of lag may be induced $1
+  - reload confirm $1
+  maint:
+  - broadcast Small 5-minute maintenance incoming $1
+  - maintenance starttimer
