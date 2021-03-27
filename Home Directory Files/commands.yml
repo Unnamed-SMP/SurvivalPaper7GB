@@ -34,3 +34,6 @@ aliases:
   maint:
   - broadcast Small 5-minute maintenance incoming $1
   - maintenance starttimer
+  git:
+  - customtext git $1
+
