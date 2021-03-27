@@ -39,5 +39,5 @@ To add /vote, add this to commands.yml:
 &bYou can go to our website at: &e&nhttp://anunnamedsmp.rf.gd/homepage.html
 
 #git
-&bYou can go to our GitHub page at: &e&nhttps://github.com/Normolo
+&bYou can go to our GitHub page at: &e&nhttps://github.com/Normolo/unnamedsmp
 
