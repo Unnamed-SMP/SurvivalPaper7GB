@@ -1,0 +1,150 @@
+%YAML 1.1
+---
+icons:
+    EndPortal.png:
+        label: EndPortal.png
+    Enderman:
+        label: Enderman
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas:
+            Empire_Of_Kolibri:
+                fillColor: 8525431
+                world: Unnamed
+                markup: false
+                ytop: 64.0
+                fillOpacity: 0.2
+                x:
+                - 924.0
+                - 761.0
+                strokeWeight: 3
+                z:
+                - 646.0
+                - 345.0
+                label: Empire_Of_Kolibri
+                ybottom: 64.0
+                strokeColor: 7536895
+                strokeOpacity: 0.8
+            ShoppingDistrict:
+                fillColor: 16711680
+                world: Unnamed
+                markup: false
+                ytop: 64.0
+                fillOpacity: 0.2
+                x:
+                - -118.0
+                - -39.0
+                strokeWeight: 3
+                z:
+                - 232.0
+                - 308.0
+                label: ShoppingDistrict
+                ybottom: 64.0
+                strokeColor: 16562691
+                strokeOpacity: 0.8
+        label: Markers
+        markers:
+            ShoppingDistrictEntrance:
+                world: Unnamed
+                markup: false
+                x: -105.0
+                icon: bank
+                y: 66.0
+                z: 237.0
+                label: ShoppingDistrictEntrance
+            PvpArena:
+                world: Unnamed
+                markup: false
+                x: -182.0
+                icon: shield
+                y: 229.0
+                z: 396.0
+                label: PvpArena
+            DrownedFarm:
+                world: Unnamed
+                markup: false
+                x: 1432.0
+                icon: flower
+                y: 120.0
+                z: -2514.0
+                label: DrownedFarm
+            WorkingEndermanFarm:
+                world: Unnamed_the_end
+                markup: false
+                x: -32.0
+                icon: skull
+                y: 4.0
+                z: -200.0
+                label: WorkingEndermanFarm
+            End_Prison:
+                world: Unnamed_the_end
+                markup: false
+                x: 103.0
+                icon: temple
+                y: 2.0
+                z: 1144.0
+                label: End_Prison
+            EndRoom:
+                world: Unnamed
+                markup: false
+                x: 1123.0
+                icon: cross
+                y: 36.0
+                z: -914.0
+                label: EndRoom
+            End_Portal:
+                world: world
+                markup: false
+                x: -1192.0
+                icon: greenflag
+                y: 30.0
+                z: 1174.0
+                label: End_Portal
+        lines:
+            SpawnToShopping:
+                world: Unnamed
+                markup: false
+                x:
+                - -105.0
+                - -105.0
+                - -87.0
+                - -87.0
+                - -93.0
+                - -96.0
+                - -96.0
+                - -94.0
+                - -86.0
+                - -86.0
+                strokeWeight: 3
+                y:
+                - 66.0
+                - 65.0
+                - 65.0
+                - 65.0
+                - 64.0
+                - 62.0
+                - 62.0
+                - 63.0
+                - 64.0
+                - 65.0
+                z:
+                - 237.0
+                - 152.0
+                - 152.0
+                - 147.0
+                - 147.0
+                - 147.0
+                - 111.0
+                - 106.0
+                - 94.0
+                - 81.0
+                label: SpawnToShopping
+                strokeColor: 12493554
+                strokeOpacity: 0.8
+        layerprio: 0
+playersets: {
+    }
