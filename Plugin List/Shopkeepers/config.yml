@@ -404,14 +404,14 @@ tax-round-up: false
 # *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
 
 # The item for the currency used in player shops.
-currency-item: EMERALD
+currency-item: DIAMOND
 
 # The item for the placeholder when a player has not set the cost for an item.
 zero-currency-item: BARRIER
 
 # The item for a second, higher-value currency used in the second trading slot
 # of player shops. Set to 'AIR' to disable the second currency.
-high-currency-item: EMERALD_BLOCK
+high-currency-item: DIAMOND_BLOCK
 
 # The item for the placeholder when a player has not set the second currency
 # cost for an item.
@@ -452,7 +452,7 @@ msg-creation-item-selected: |-
   &aShop creation:
   &e  Left/Right-click to select the shop type.
   &e  Sneak + left/right-click to select the object type.
-  &e  Right-click a container to select it.
+  &e  Right-click a container (ex. chest) to select it.
   &e  Then right-click a block to place the shopkeeper.
 
 msg-button-previous-page: "&6<- Previous page ({prev_page} of {max_page})"
