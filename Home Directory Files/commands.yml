@@ -36,4 +36,6 @@ aliases:
   - maintenance starttimer
   git:
   - customtext git $1
+  coords:
+  - trigger ch_toggle git $1
 
