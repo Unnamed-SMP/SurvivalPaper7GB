@@ -37,5 +37,5 @@ aliases:
   git:
   - customtext git $1
   coords:
-  - trigger ch_toggle git $1
+  - trigger ch_toggle $1
 
