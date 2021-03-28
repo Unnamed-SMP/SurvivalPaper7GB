@@ -40,7 +40,7 @@ global-broadcasts:
 # -- 'follow-stack' Should Clearlag keep printing the stacktrace every time it changes (Can be very spammy)?
 # Help-> https://dev.bukkit.org/projects/clearlagg/pages/finding-the-cause-of-lag-spikes
 lag-spike-helper:
-  enabled: false
+  enabled: true
   min-elapsed-time: 500
   check-interval: 100
   follow-stack: true
@@ -101,10 +101,10 @@ player-speed-limiter:
 item-spawn-age-setter:
   enabled: false
   items:
-    stone: 240
+    stone: 20
     grass: 240
-    cobblestone: 240
-    log: 240
+    cobblestone: 20
+    log: 60
     stone_axe: 240
     stone_pickaxe: 240
     stone_sword: 240
@@ -141,7 +141,7 @@ mob-breeding-limiter:
 # -- 'days-old' means how many days old can the log be to be deleted
 log-purger:
   enabled: false
-  days-old: 3
+  days-old: 2
 
 #What type of entities SHOULD NOT be removed while doing /lagg area?
 area-filter:
