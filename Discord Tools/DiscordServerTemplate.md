@@ -1,0 +1,1 @@
+[ServerTemplateLink](https://discord.new/KTqTZbEyGZJN)
