@@ -5,3 +5,4 @@
 4. Pheonix Rising Bot - Role prefixes
 5. SMP Bot - Custom-made staus bot, ask `Haxux#4306` for information
 6. CarlBot - Moderation, embed messages
+7. Poll Bot - Polls
