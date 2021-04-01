@@ -8,7 +8,8 @@ Search for the latest `dt` branch, example: `dt-42`. Change what you seek to cha
 Name your branch/pull: `bugfix-<issue number>`
 ##### Versioning bugfixes that don't have issues
 Create an issue with, then name your branch/pull: `bugix-<issue number>`
-
+#### Versioning updates to .github material
+Create a branch with the title: `gitupdate-<number>`
 
 
 
