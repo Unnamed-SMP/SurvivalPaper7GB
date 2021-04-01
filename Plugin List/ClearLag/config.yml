@@ -355,7 +355,7 @@ item-merger:
 # -- 'remove-entities' What entities SHOULD be removed during removal
 auto-removal:
   enabled: true
-  broadcast-message: '&6[ClearLag] &aRemoved +RemoveAmount Entiti(e/s)!'
+  broadcast-message: '&6[ClearLag] &aRemoved +RemoveAmount Entities!'
   broadcast-removal: true
   autoremoval-interval: 200
   world-filter:
@@ -386,8 +386,6 @@ auto-removal:
   # - Minecart !isMounted <- This entity will be REMOVED if it's NOT mounted
   # - Wolf !hasName <- This entity will be REMOVED if it doesn't have a name
   warnings:
-        - 'time:100 msg:&4[ClearLag] &cWarning Ground items will be removed in &7+remaining &cseconds!'
-        - 'time:140 msg:&4[ClearLag] &cWarning Ground items will be removed in &7+remaining &cseconds!'
         - 'time:195 msg:&4[ClearLag] &cGround items getting removed in &7+remaining &cseconds'
 
 #What should be removed during /lagg clear, nearly the same thing as auto-removal
