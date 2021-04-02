@@ -40,3 +40,7 @@ aliases:
   - trigger ch_toggle $1
   grave:
   - function graves:give_grave_key $1
+  claimtools:
+  - kit claim $1
+
+  
