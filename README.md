@@ -1,3 +1,4 @@
+<u> **IMPORTANT, PLEASE VIEW INFORMATION REGARDING THIS UPDATE BY [CLICKING THIS LINK](https://github.com/Unnamed-SMP/7GBSMP/wiki/What's-new-in-v3.0)** </u>
 ## Server Description
 Tired of large, pay-to-win servers that dont care about the average player? Want a small, laid-back community to play with? Then consider our Unnamed SMP. We have some quality of life plugins that include dynmap and some other anti-grief ones. The server is never offline, that means you can play whenever you like. We don't have alot of members that play regularly, and we're looking to change it. Apart from this, our owner is a dedicated and experienced java programmer that codes our own plugins! We don't require you to go trough tedious whitelist applications, just join our discord, get the ip and start playing!
 
