@@ -1,0 +1,12 @@
+{
+    "title":"Automatic Reboot In Progress",
+    "description":"Please do not worry, this is routine. If the server does not restart within 30m, please wait for Cosmo to get online.",
+    "thumbnail":{
+        "url":"https://cdn.discordapp.com/icons/817842214201196595/2ba7f0d3e8e85215d3177a4932a0d3d8.webp?size=1024"
+    },
+    "author":{
+        "name":"Automatic Announcement",
+        "icon_url":"https://cdn.discordapp.com/icons/817842214201196595/2ba7f0d3e8e85215d3177a4932a0d3d8.webp?size=1024"
+    },
+    "color":11410734
+}
