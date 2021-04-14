@@ -73,11 +73,9 @@ Webserver:
         # Allows using the whitelist with a reverse-proxy.
         # ! Make sure non-proxy access is not possible, it would allow IP spoofing !
         Use_X-Forwarded-For_Header: false
-        IP_whitelist: true
+        IP_whitelist: false
             Whitelist:
-              - "192.168.0.0"
-              - "0:0:0:0:0:0:0:1"
-              - "46.11.150.160"
+              - "XXXXXXXXXX"
     Disable_Webserver: false
     External_Webserver_address: https://www.example.address
 # -----------------------------------------------------
