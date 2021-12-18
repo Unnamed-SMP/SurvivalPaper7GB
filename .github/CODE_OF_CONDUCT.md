@@ -13,4 +13,4 @@
 12. Follow the guidelines in the newly created channel descriptions
 13. Do not mock any member of staff or the server in general 
 
-- These rules are an adaptation from our general rules that can be found in our [discord channel dedicated to them](https://discord.com/channels/817842214201196595/817842296884035585)
+- These rules were adapted from our general rules which could be found in our discord.
